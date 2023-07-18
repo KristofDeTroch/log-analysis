@@ -1,0 +1,4 @@
+*.csv
+.vscode
+*.gz
+*.DS_Store
