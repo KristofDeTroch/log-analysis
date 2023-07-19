@@ -27,3 +27,9 @@ This experiment counts the response types per minute. Types are grouped by 100's
 
 The final data is easily visualised in Google Sheets where it can be overlaid with database loads or other metrics to find server performance tipovers. Especially the 5xx status code responses give an interesting view.
 
+## Experiment 3
+
+This experiment counts the routes that take more than 15 seconds and when the first and last one occured.
+
+
+
